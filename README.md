@@ -13,7 +13,6 @@
 - 🌱 I’m currently learning **Full-Stack Development with Django and React**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, Django, Backend Development**
-- 📫 How to reach me: [shanmugapriyadharanibabu@gmail.com](mailto:shanmugapriyadharanibabu@gmail.com)
 - ⚡ Fun fact: I love solving Rubik's cubes and exploring new tech trends.
 
 ---
