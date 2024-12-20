@@ -48,12 +48,6 @@
 </p>
 
 ---
-
-### 🌟 Contribution Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=shanmugapriyadev&bg_color=1c1917&color=10b981&line=84cc16&point=facc15&area=true&hide_border=true" alt="Contribution Graph">
-</p>
-
 ---
 
 ### 👀 Profile Views
