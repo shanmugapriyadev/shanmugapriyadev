@@ -5,9 +5,9 @@
 
 ## 🌟 About Me
 - 🧠 **Passion:** Exploring the intersection of AI, research, and creativity.
-- 🎥 **Content Creator:** Sharing insights on [**TechEd Hub**](https://www.youtube.com/channel/your-link).
+- 🎥 **Content Creator:** Sharing insights on [**TechEd Hub**](UCjbzxSY8nVCVNplCTbesalg).
 - 🔎 **Current Focus:** Ethical Data Governance in AI.
-- 💬 **Expertise:** Python, AI Concepts, and Public Speaking.
+- 💬 **Learning:** Python, AI Concepts, and Public Speaking.
 - 🌈 **Fun Fact:** I love solving Rubik's cubes and experimenting with new tech trends.
 
 ---
