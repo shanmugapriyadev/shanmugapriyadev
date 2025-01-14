@@ -1,3 +1,21 @@
+<style>
+  h1, h3 {
+    text-align: center;
+    font-family: "Fira Code", monospace;
+  }
+  table {
+    border: 2px solid #1f6feb;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  a {
+    text-decoration: none;
+    color: #1f6feb;
+  }
+</style>
 <h1 align="center">👋 Hello, I'm Shanmugapriya</h1>
 <h3 align="center">AI Enthusiast | Researcher | Content Creator</h3>
 
