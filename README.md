@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHANMUGAPRIYA D</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Research Scholar @ Vit </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanmugapriyadev&label=Profile%20views&color=0e75b6&style=flat" alt="shanmugapriyadev" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **Research Associate @ VIT**
 
-- 🌱 I’m currently learning **AI FRAME WORKS , ETHICAL DATA GOVERNANCE**
+- 🌱 I’m currently learning **AI FRAME WORKS , ETHICAL DATA GOVERNANCE, LLM , PROMPT ENGINEERING**
 
 - 👯 I’m looking to collaborate on **AI Related Research**
 
