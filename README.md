@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **DATA, TOOLS AND PUBLICATION**
 
-- 📫 How to reach me **Shanmugapriyadharanibabu@gmail.com**
+- 📫 How to reach me **Shanmugapriya.d2024@vitstudent.ac.in**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
